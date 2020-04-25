@@ -7,8 +7,8 @@ NLP course notebooks
     - Natural Language Processing
     
 # References
-https://www.kdnuggets.com/2020/04/super-duper-nlp-repo.html
-https://notebooks.quantumstat.com/
+- https://www.kdnuggets.com/2020/04/super-duper-nlp-repo.html
+- https://notebooks.quantumstat.com/
 
 # Source Github
 - https://github.com/hse-aml/natural-language-processing
