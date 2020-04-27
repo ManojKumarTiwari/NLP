@@ -20,7 +20,9 @@ NLP course notebooks
   
 # Tokenization
 - https://github.com/google/sentencepiece
-  
+
+# Pretrained Models
+- https://tfhub.dev/s?module-type=text-embedding
     
 # Awesome Blogs
 - https://www.kdnuggets.com/2020/04/super-duper-nlp-repo.html
