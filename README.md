@@ -9,6 +9,8 @@ NLP course notebooks
   ## 1. Char-RNN
   ## Concepts
   
+  - Stateful RNN
+  
   ## Implementatiom
   - https://machinelearningmastery.com/develop-character-based-neural-language-model-keras/ (2019)
   - http://karpathy.github.io/2015/05/21/rnn-effectiveness/ (2015) but the images in the blog is awesome
