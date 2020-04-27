@@ -18,6 +18,9 @@ NLP course notebooks
   ## Pretrained Models
   - https://github.com/minimaxir/textgenrnn
   
+# Tokenization
+- https://github.com/google/sentencepiece
+  
     
 # Awesome Blogs
 - https://www.kdnuggets.com/2020/04/super-duper-nlp-repo.html
