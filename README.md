@@ -3,9 +3,27 @@ NLP course notebooks
 
 # Course
 - Coursera
-  - Advanced Machine Learning Specialization
+  - Advanced Machine Learning Specialization (incomplete)
     - Natural Language Processing
+- Udemy
+  - NLP - Natural Language Processing with Python (2020)
+
 # Content
+
+# f-string formatting
+- https://realpython.com/python-f-strings/
+
+# datetime formatting
+- https://strftime.org/
+
+
+
+
+
+
+
+
+
   ## 1. Char-RNN
   ## Concepts
   
