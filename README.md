@@ -7,6 +7,9 @@ NLP course notebooks
     - Natural Language Processing
 - Udemy
   - NLP - Natural Language Processing with Python (2020)
+ 
+ # Books
+ - Practical Natural Language Processing (2020)
 
 # Content
 
@@ -15,14 +18,6 @@ NLP course notebooks
 
 # datetime formatting
 - https://strftime.org/
-
-
-
-
-
-
-
-
 
   ## 1. Char-RNN
   ## Concepts
@@ -48,3 +43,4 @@ NLP course notebooks
 
 # Source Github
 - https://github.com/hse-aml/natural-language-processing
+- https://github.com/practical-nlp/practical-nlp
